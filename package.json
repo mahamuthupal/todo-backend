@@ -1,0 +1,21 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.38.4",
+    "hono": "^4.6.17",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.30.2"
+  }
+}
